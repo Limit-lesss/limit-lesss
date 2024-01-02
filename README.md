@@ -162,7 +162,7 @@ Currently I am working with ...
       alt="Figma"
     />
   </a>
-</p>;
+</p>
 
                     
 ### <b>Social</b>
