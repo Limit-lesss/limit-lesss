@@ -187,8 +187,7 @@ Skills
                     </picture>
                     </a></p>
                     
-### Badges <br/> <b>My GitHub Stats</b>
-
+<b>My GitHub Stats</b> <br/>
 
 <a href="http://www.github.com/Limit-lesss"><img src="https://github-readme-stats.vercel.app/api?username=Limit-lesss&show_icons=true&hide=issues,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="Limit-lesss's GitHub stats" /></a>&emsp;<a
                       href="http://www.github.com/Limit-lesss"><img
