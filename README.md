@@ -141,7 +141,7 @@ Skills
                   
 <p float="left">
 <a href="https://github.com/Limit-lesss" target="_blank" >
- <img src="https://img.icons8.com/fluency/96/0F1010/github.png" width="36" height="36" alt="Github"/>
+ <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/96/CACDCE/external-github-community-for-software-building-and-testing-online-logo-bold-tal-revivo.png" width="36" height="36" alt="Github"/>
 </a>  
       &emsp;
 <a href="https://www.linkedin.com/in/limit-less67921/" target="_blank" >
