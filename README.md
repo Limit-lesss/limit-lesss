@@ -23,8 +23,7 @@ Currently I am working with ...
       height="36"
       alt="React"
     />
-  </a>
-  &emsp;
+  </a>&emsp;
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
