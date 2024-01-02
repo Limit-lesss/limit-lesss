@@ -5,12 +5,17 @@ I am a frontend developer from India 🇮🇳 who loves React!
 
 Currently, I am working with ...
 ===============================
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /> &emsp;  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />&emsp;  <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
-      width="36"
-      height="36"
-      alt="TailwindCSS"
-    />
+<p float="left">
+<span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"
+      height="36" /> </span>&emsp;  
+<span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"
+      height="36" /></span>  &emsp;  
+<span>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width="36"
+      height="36"/>
+           </span>
+</p>
+</br>
 
 *   🌍  I'm based in Patna, India
 *   ✉️  You can contact me at [engineersempire0204@gmail.com](mailto:engineersempire0204@gmail.com)
@@ -20,149 +25,129 @@ Currently, I am working with ...
 
 Skills
 ======
-  <p align="left">
+  <p float="left">
+  <span>
     <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
       width="36"
       height="36"
       alt="React"
     />
-  &emsp;
-
-<img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+  </span>
+  &emsp; 
+  <span>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
       width="36"
       height="36"
       alt="JavaScript"
     />
-
+  </span>
   &emsp;
-  
-<img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
+        <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
       width="36"
       height="36"
       alt="Redux"
     />
- 
   &emsp;
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
+ <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
       width="36"
       height="36"
       alt="Java"
     />
   &emsp;
-
 <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
       width="36"
       height="36"
       alt="C"
-    />
-
-  &emsp;
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg"
+    />  &emsp;
+   <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
       width="36"
       height="36"
       alt="C++"
     />
-
   &emsp;
-  
-  <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+   <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
       width="36"
       height="36"
       alt="Git"
     />
-
   &emsp;
-  
- <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+   <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
       width="36"
       height="36"
       alt="HTML5"
     />
-
   &emsp;
-
 <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"   
       width="36"
       height="36"
       alt="TailwindCSS"
     />
-
   &emsp;
     <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"   
       width="36"
       height="36"
       alt="CSS3"
     />
-
   &emsp;
     <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" 
       width="36"
       height="36"
       alt="Sass"
     />
   &emsp;
     <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"     
       width="36"
       height="36"
       alt="Bootstrap"
     />
-
   &emsp;
     <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg"  
       width="36"
       height="36"
       alt="Webpack"
     />
-
   &emsp;
     <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" 
       width="36"
       height="36"
       alt="Babel"
     />
-
   &emsp;
     <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
       width="36"
       height="36"
       alt="Figma"
     />
-
 </p>
+
 
                     
 ### <b>Socials</b>
                   
-<p align="left">
-                      <a href="https://www.github.com/Limit-lesss" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a> &emsp;
-                      <a href="https://www.linkedin.com/in/limit-less67921/" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>
+<p float="left">
+<a href="https://github.com/Limit-lesss" target="_blank" >
+ <img src="https://img.icons8.com/fluency/96/0F1010/github.png" width="36" height="36" alt="Github"/>
+</a>  
+      &emsp;
+<a href="https://www.linkedin.com/in/limit-less67921/" target="_blank" >
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="Linkedin"/>
+</a>   
+</p>
                     
 <b>My GitHub Stats</b> <br/>
 
