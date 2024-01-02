@@ -1,19 +1,24 @@
 Hello 👋 I am Pranav 👨🏻‍💻
 =============================
 
-I am a frontend developer from India 🇮🇳 who loves react!
+I am a frontend developer from India 🇮🇳 who loves React!
 
-Currently I am working with ...
+Currently, I am working with ...
 ===============================
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /> &emsp;  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /> &emsp;  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />&emsp;  <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
+      width="36"
+      height="36"
+      alt="TailwindCSS"
+    />
 
 *   🌍  I'm based in Patna, India
 *   ✉️  You can contact me at [engineersempire0204@gmail.com](mailto:engineersempire0204@gmail.com)
-*   🚀  I'm currently working on [FoodVilla](http://https://limit-lesss.github.io/Food-Villa/)
+*   🚀  I'm currently working on [FoodVilla](https://limit-lesss.github.io/Food-Villa/) and [Youtube Clone](https://github.com/Limit-lesss/Youtube)
 *   🧠  I'm learning React and Node js
-*   🤝  I'm open to collaborating on Projects###
+*   🤝  I'm open to collaborating on Projects
 
-###Skills
+Skills
 ======
   <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
