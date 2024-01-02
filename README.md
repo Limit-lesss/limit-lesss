@@ -169,7 +169,7 @@ Skills
 </p>
 
                     
-### <b>Social</b>
+### <b>Socials</b>
                   
 <p align="left">
                       <a href="https://www.github.com/Limit-lesss" target="_blank" rel="noreferrer">
@@ -187,7 +187,7 @@ Skills
                     </picture>
                     </a></p>
                     
-### Badges <b>My GitHub Stats</b>
+### Badges <br/> <b>My GitHub Stats</b>
 
 
 <a href="http://www.github.com/Limit-lesss"><img src="https://github-readme-stats.vercel.app/api?username=Limit-lesss&show_icons=true&hide=issues,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="Limit-lesss's GitHub stats" /></a>&emsp;<a
