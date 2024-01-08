@@ -10,6 +10,12 @@ Currently, I am working with ...
       height="36" /> </span>&emsp;  
 <span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"
       height="36" /></span>  &emsp;  
+      <span><img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+      width="36"
+      height="36"
+      alt="Redux"
+    /> </span>  &emsp;  
 <span>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width="36"
       height="36"/>
