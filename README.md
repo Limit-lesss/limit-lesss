@@ -19,7 +19,15 @@ Currently, I am working with ...
 <span>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width="36"
       height="36"/>
-           </span>
+           </span>&emsp;  
+      <span>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"
+      height="36" />
+          </span>&emsp;
+           <span>       
+<img src="https://img.icons8.com/ios/50/28D0E2/express-js.png" width="36"
+      height="36" />
+  </span>&emsp;  
 </p>
 </br>
 
@@ -57,6 +65,28 @@ Skills
       alt="Redux"
     />
   &emsp;
+        <span>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"
+      height="36" />
+          </span>&emsp;
+           <span>       
+<img src="https://img.icons8.com/ios/50/28D0E2/express-js.png" width="36"
+      height="36" />
+  </span>&emsp;  
+         <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+      width="36"
+      height="36"
+      alt="HTML5"
+    />
+  &emsp;
+<img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"   
+      width="36"
+      height="36"
+      alt="TailwindCSS"
+    />
+  &emsp;
  <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
       width="36"
@@ -82,20 +112,6 @@ Skills
       width="36"
       height="36"
       alt="Git"
-    />
-  &emsp;
-   <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-      width="36"
-      height="36"
-      alt="HTML5"
-    />
-  &emsp;
-<img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"   
-      width="36"
-      height="36"
-      alt="TailwindCSS"
     />
   &emsp;
     <img
