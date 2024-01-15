@@ -135,6 +135,7 @@ Skills
       alt="Bootstrap"
     />
   &emsp;
+         </br>  </br>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg"  
       width="36"
@@ -157,21 +158,21 @@ Skills
     />
 </p>
 
-
-                    
-### <b>Socials</b>
-                  
+Socials
+======               
 <p float="left">
 <a href="https://github.com/Limit-lesss" target="_blank" >
  <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/96/CACDCE/external-github-community-for-software-building-and-testing-online-logo-bold-tal-revivo.png" width="36" height="36" alt="Github"/>
 </a>  
-      &emsp;
+      &emsp;  &emsp;
 <a href="https://www.linkedin.com/in/limit-less67921/" target="_blank" >
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="Linkedin"/>
 </a>   
 </p>
-                    
-<b>My GitHub Stats</b> <br/>
+       
+My Github Stats
+===============
+<br/>
 
 <a href="http://www.github.com/Limit-lesss"><img src="https://github-readme-stats.vercel.app/api?username=Limit-lesss&show_icons=true&hide=issues,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="Limit-lesss's GitHub stats" /></a>&emsp;<a
                       href="http://www.github.com/Limit-lesss"><img
