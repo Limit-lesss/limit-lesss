@@ -50,6 +50,8 @@ Clone](https://github.com/Limit-lesss/Youtube)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" /></a>&emsp;
 <a href="" title="Express.js" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/ios/50/28D0E2/express-js.png" width="36" height="36" /></a>&emsp;
+  <a href="" target="_blank" title="MongoDB" rel="noreferrer">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="36" height="36" /></a>&emsp;
   <a href="" title="Git" target="_blank" rel="noreferrer"><img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36"
     alt="Git" /></a>
@@ -61,6 +63,10 @@ Clone](https://github.com/Limit-lesss/Youtube)
 <a href="" title="Tailwind" target="_blank" rel="noreferrer"><img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36"
     alt="TailwindCSS" /></a>
+&emsp;
+<a href="" title="Bootstrap" target="_blank" rel="noreferrer"><img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" height="36"
+    alt="Bootstrap" /></a>
 &emsp;
 <a href="" title="CSS" target="_blank" rel="noreferrer"><img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36"
@@ -81,10 +87,7 @@ Clone](https://github.com/Limit-lesss/Youtube)
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36"
     alt="C++" /></a>
 &emsp;
-<a href="" title="Bootstrap" target="_blank" rel="noreferrer"><img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" height="36"
-    alt="Bootstrap" /></a>
-&emsp;
+
 </br>
 
 ### Socials
