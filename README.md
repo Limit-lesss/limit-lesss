@@ -109,7 +109,7 @@ Clone](https://github.com/Limit-lesss/Youtube)
     src="https://github-readme-stats.vercel.app/api?username=Limit-lesss&show_icons=true&hide=issues,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true"
     alt="Limit-lesss's GitHub stats" /></a>&emsp;
     <a href="http://www.github.com/Limit-lesss"><img
-    src="https://github-readme-streak-stats.herokuapp.com/?username=Limit-lesss&stroke=ffffff&background=171717&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>&emsp;<a
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Limit-lesss&stroke=ffffff&background=171717&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>&emsp;<a
   href="https://github.com/Limit-lesss" align="left"><img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Limit-lesss&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"
     alt="Top Languages" /></a>
