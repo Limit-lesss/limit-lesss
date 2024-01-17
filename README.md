@@ -13,6 +13,7 @@ I am a frontend developer from India 🇮🇳 who loves React!
 <a href="" target="_blank" title="Redux" rel="noreferrer"><img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" height="36"
     alt="Redux" /></a> &emsp;
+    
 <a href="" target="_blank" title="Tailwind" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36"
     height="36" /></a>&emsp;
