@@ -15,7 +15,7 @@ I am a frontend developer from India 🇮🇳 who loves React!
     alt="Redux" /></a> &emsp;
     
 <a href="" target="_blank" title="Tailwind" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36"
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" width="36"
     height="36" /></a>&emsp;
 <a href="" target="_blank" title="Node.js" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" /></a>&emsp;
@@ -62,7 +62,7 @@ Clone](https://limit-lesss.github.io/Youtube/)
     alt="HTML5" /></a>
 &emsp;
 <a href="" title="Tailwind" target="_blank" rel="noreferrer"><img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36"
+    src="https://img.icons8.com/color/48/tailwind_css.png" width="36" height="36"
     alt="TailwindCSS" /></a>
 &emsp;
 <a href="" title="Bootstrap" target="_blank" rel="noreferrer"><img
