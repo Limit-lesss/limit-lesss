@@ -10,17 +10,18 @@ I am a frontend developer from India 🇮🇳 who loves React!
 <a href="" target="_blank" title="React.js" rel="noreferrer"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" /></a>
     &emsp;
-<a href="" target="_blank" title="Redux" rel="noreferrer"><img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" height="36"
-    alt="Redux" /></a> &emsp;
-    
-<a href="" target="_blank" title="Tailwind" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" width="36"
-    height="36" /></a>&emsp;
-<a href="" target="_blank" title="Node.js" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" /></a>&emsp;
-<a href="" target="_blank" title="Express.js" rel="noreferrer">
-  <img src="https://img.icons8.com/ios/50/28D0E2/express-js.png" width="36" height="36" /></a>&emsp;
+<a href="" target="_blank" title="Redux" rel="noreferrer"> <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" height="36" /></a> 
+    &emsp;   
+<a href="" target="_blank" title="Tailwind" rel="noreferrer"> <img 
+    src="https://img.icons8.com/color/48/tailwind_css.png" width="36" height="36" /></a>
+    &emsp;
+<a href="" target="_blank" title="Node.js" rel="noreferrer"><img 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" /></a>
+   &emsp;
+<a href="" target="_blank" title="Express.js" rel="noreferrer"><img 
+   src="https://img.icons8.com/ios/50/28D0E2/express-js.png" width="36" height="36" /></a>
+   &emsp;
 <a href="" target="_blank" title="MongoDB" rel="noreferrer">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="36" height="36" /></a>&emsp;
 
@@ -104,13 +105,12 @@ Clone](https://limit-lesss.github.io/Youtube/)
 
 ### My Github Stats
 
-<br />
+
 
 <a href="http://www.github.com/Limit-lesss"><img
     src="https://github-readme-stats.vercel.app/api?username=Limit-lesss&show_icons=true&hide=issues,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true"
     alt="Limit-lesss's GitHub stats" /></a>&emsp;
-    <a href="http://www.github.com/Limit-lesss"><img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Limit-lesss&stroke=ffffff&background=171717&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>&emsp;<a
+    <a
   href="https://github.com/Limit-lesss" align="left"><img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Limit-lesss&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"
     alt="Top Languages" /></a>
